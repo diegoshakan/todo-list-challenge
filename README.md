@@ -16,7 +16,9 @@ Por isso você irá criar uma aplicação web para poder gerenciar essas informa
 ## Como proceder
 1. Faça o fork deste projeto;
 2. Aponte seu projeto local para o repositório "forkado";
-3. Crie suas branches, após a funcionalidade faça o PR para a branch release/v0.1.
+3. Crie suas branches, após a funcionalidade faça o PR para a branch release/v0.1;
+4. Após terminada a aplicação, faça o merge com sua branch Main;
+5. Solicite o PR para este repositório (original) na branch com o seu nome.
 
 ### Requisitos
 1. Criar Tarefa
